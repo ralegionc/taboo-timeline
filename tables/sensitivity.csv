@@ -1,0 +1,155 @@
+variant,word,datable,peak_year,peak,rise,fall,open_start,open_end,recent,waves_in_order,all_fell_tenfold
+baseline,damn,True,1834,0.3059278439661163,1800,1904,True,False,0.003174537871903158,True,True
+baseline,hell,True,1888,0.05358902434421602,1823,1909,False,False,9.547288490309356e-05,True,True
+baseline,devil,True,1839,0.032239485338344046,1817,1874,False,False,0.0011695300887707874,True,True
+baseline,bloody,False,1802,0.0,1802,2018,True,True,0.0,True,True
+baseline,bugger,False,1945,0.1683206143514142,1939,1951,False,False,8.399437092962103e-05,True,True
+baseline,bastard,False,1800,0.13170645787674054,1800,1811,True,False,0.00024187802343119194,True,True
+baseline,bitch,True,1827,0.19111600583851046,1800,1884,True,False,0.00036826042507561937,True,True
+baseline,whore,True,1816,0.011115202571012837,1800,1852,True,False,0.00015028671195100067,True,True
+baseline,piss,False,1887,0.2368893528023039,1884,1890,False,False,7.395726854821514e-05,True,True
+baseline,arse,False,1804,0.40864073881898755,1801,1833,True,False,8.667703035771985e-05,True,True
+baseline,shit,True,1913,0.05445796629478869,1911,1927,False,False,0.000811241461659838,True,True
+baseline,fuck,True,1949,0.11971260028994966,1937,1955,False,False,0.0022177481603793897,True,True
+baseline,cunt,False,1888,0.0,1888,1922,True,False,0.0,True,True
+baseline,nword,False,1949,0.0013552361084602459,1944,1960,False,False,0.00038067468132599276,True,True
+event window +-5,damn,True,1838,0.3305586761798496,1817,1902,False,False,0.003174537871903158,True,True
+event window +-5,hell,True,1883,0.05954140411795227,1829,1903,False,False,9.547288490309356e-05,True,True
+event window +-5,devil,True,1839,0.037949934812097776,1827,1854,False,False,0.0011695300887707874,True,True
+event window +-5,bloody,False,1815,0.0,1815,1815,True,False,0.0,True,True
+event window +-5,bugger,False,1950,0.20983749532954232,1944,1954,False,False,8.399437092962103e-05,True,True
+event window +-5,bastard,False,1801,0.2936431612378791,1801,1804,True,False,0.00024187802343119194,True,True
+event window +-5,bitch,True,1822,0.22162469874082527,1815,1861,False,False,0.00036826042507561937,True,True
+event window +-5,whore,True,1800,0.015590834600776184,1800,1830,True,False,0.00015028671195100067,True,True
+event window +-5,piss,False,1940,0.12612784671001354,1940,1944,False,False,7.395726854821514e-05,True,True
+event window +-5,arse,False,1806,0.41188802785886597,1806,1816,True,False,8.667703035771985e-05,True,True
+event window +-5,shit,True,1921,0.07485839964374508,1912,1921,False,False,0.000811241461659838,True,True
+event window +-5,fuck,True,1954,0.12923054586163615,1950,1960,False,False,0.0022177481603793897,True,True
+event window +-5,cunt,False,1896,0.0,1896,1906,True,False,0.0,True,True
+event window +-5,nword,False,1953,0.0024651700661305607,1949,1958,False,False,0.00038067468132599276,True,True
+event window +-15,damn,True,1837,0.2868832064269921,1800,1904,True,False,0.003174537871903158,True,True
+event window +-15,hell,True,1883,0.05077469109813542,1820,1910,False,False,9.547288490309356e-05,True,True
+event window +-15,devil,True,1841,0.028348345162628703,1800,1879,True,False,0.0011695300887707874,True,True
+event window +-15,bloody,False,1800,0.0,1800,2018,True,True,0.0,True,True
+event window +-15,bugger,False,1940,0.16446743132072494,1934,1946,False,False,8.399437092962103e-05,True,True
+event window +-15,bastard,False,1800,0.10100186513479155,1800,1810,True,False,0.00024187802343119194,True,True
+event window +-15,bitch,True,1832,0.18245953568777099,1800,1884,True,False,0.00036826042507561937,True,True
+event window +-15,whore,True,1811,0.011600630368317152,1800,1859,True,False,0.00015028671195100067,True,True
+event window +-15,piss,False,1881,0.20654818029128202,1879,1885,False,False,7.395726854821514e-05,True,True
+event window +-15,arse,False,1800,0.39447906440556657,1800,1828,True,False,8.667703035771985e-05,True,True
+event window +-15,shit,True,1919,0.03706010872985549,1916,1932,False,False,0.000811241461659838,True,True
+event window +-15,fuck,True,1946,0.10374167161332469,1933,1951,False,False,0.0022177481603793897,True,True
+event window +-15,cunt,False,1873,0.0,1873,2018,True,True,0.0,True,True
+event window +-15,nword,False,1944,0.0008496885726354597,1939,1965,False,False,0.00038067468132599276,True,True
+no spike capping,damn,True,1834,0.30551767470104285,1809,1904,False,False,0.003174537871903158,True,True
+no spike capping,hell,True,1888,0.05358902434421602,1823,1890,False,False,9.547288490309355e-05,True,True
+no spike capping,devil,True,1839,0.032239485338344046,1817,1874,False,False,0.0011695300887707874,True,True
+no spike capping,bloody,False,1802,0.0,1802,2018,True,True,0.0,True,True
+no spike capping,bugger,False,1945,0.1683206143514142,1939,1951,False,False,8.399437092962103e-05,True,True
+no spike capping,bastard,False,1800,0.13170645787674054,1800,1811,True,False,0.000241878023431192,True,True
+no spike capping,bitch,True,1827,0.18875635563807036,1809,1884,False,False,0.00036826042507561937,True,True
+no spike capping,whore,True,1816,0.011115202571012837,1800,1852,True,False,0.00015028671195100067,True,True
+no spike capping,piss,False,1887,0.2368893528023039,1884,1889,False,False,7.395726854821514e-05,True,True
+no spike capping,arse,False,1804,0.40864073881898755,1801,1833,True,False,8.667703035771985e-05,True,True
+no spike capping,shit,True,1913,0.05445796629478869,1911,1927,False,False,0.000811241461659838,True,True
+no spike capping,fuck,True,1949,0.11971260028994958,1937,1955,False,False,0.0022177481603793897,True,True
+no spike capping,cunt,False,1878,0.0,1878,1922,True,False,0.0,True,True
+no spike capping,nword,False,1949,0.0013552361084602459,1944,1960,False,False,0.00038067468132599276,True,True
+support floor 50,damn,True,1834,0.3059278439661163,1800,1904,True,False,0.003174537871903158,True,True
+support floor 50,hell,True,1888,0.05358902434421602,1823,1909,False,False,9.547288490309356e-05,True,True
+support floor 50,devil,True,1839,0.032239485338344046,1817,1874,False,False,0.0011695300887707874,True,True
+support floor 50,bloody,False,1800,0.0,1800,2018,True,True,0.0,True,True
+support floor 50,bugger,False,1945,0.1683206143514142,1939,1951,False,False,8.399437092962103e-05,True,True
+support floor 50,bastard,False,1800,0.13170645787674054,1800,1811,True,False,0.00024187802343119194,True,True
+support floor 50,bitch,True,1827,0.19111600583851046,1800,1884,True,False,0.00036826042507561937,True,True
+support floor 50,whore,True,1816,0.011115202571012837,1800,1852,True,False,0.00015028671195100067,True,True
+support floor 50,piss,False,1887,0.2368893528023039,1884,1890,False,False,7.395726854821514e-05,True,True
+support floor 50,arse,False,1804,0.40864073881898755,1800,1833,True,False,8.667703035771985e-05,True,True
+support floor 50,shit,True,1913,0.05445796629478869,1911,1927,False,False,0.000811241461659838,True,True
+support floor 50,fuck,True,1949,0.11971260028994966,1937,1955,False,False,0.0022177481603793897,True,True
+support floor 50,cunt,False,1831,0.0,1831,1832,True,False,0.0,True,True
+support floor 50,nword,False,1949,0.0013552361084602459,1944,1960,False,False,0.00038067468132599276,True,True
+support floor 300,damn,True,1834,0.3059278439661163,1800,1904,True,False,0.003174537871903158,True,True
+support floor 300,hell,True,1888,0.05358902434421602,1823,1909,False,False,9.547288490309356e-05,True,True
+support floor 300,devil,True,1839,0.032239485338344046,1817,1874,False,False,0.0011695300887707874,True,True
+support floor 300,bloody,False,1822,0.0,1822,2018,True,True,0.0,True,True
+support floor 300,bugger,False,1945,0.1683206143514142,1945,1951,True,False,8.399437092962103e-05,True,True
+support floor 300,bastard,False,1802,0.11501110422932645,1802,1812,True,False,0.00024187802343119194,True,True
+support floor 300,bitch,True,1827,0.19111600583851046,1800,1884,True,False,0.00036826042507561937,True,True
+support floor 300,whore,True,1816,0.011115202571012837,1800,1852,True,False,0.00015028671195100067,True,True
+support floor 300,piss,False,1894,0.0989966760087186,1893,1900,False,False,7.395726854821514e-05,True,True
+support floor 300,arse,False,1816,0.3246783941669987,1816,1817,True,False,8.667703035771985e-05,True,True
+support floor 300,shit,True,1949,0.030688442896465874,1948,1955,False,False,0.000811241461659838,True,True
+support floor 300,fuck,True,1949,0.11971260028994966,1937,1955,False,False,0.0022177481603793897,True,True
+support floor 300,cunt,False,1955,0.0,1955,2018,True,True,0.0,True,True
+support floor 300,nword,False,1949,0.0013552361084602459,1944,1960,False,False,0.00038067468132599276,True,True
+no trailing masks,damn,True,1834,0.3019850861019222,1800,1904,True,False,0.002845671172214733,True,True
+no trailing masks,hell,True,1888,0.05215762411135776,1826,1908,False,False,6.513026458523795e-05,True,True
+no trailing masks,devil,True,1839,0.031202643582881728,1819,1868,False,False,0.000806286997308871,True,True
+no trailing masks,bloody,False,1802,0.0,1802,2018,True,True,0.0,True,True
+no trailing masks,bugger,False,1945,0.1683206143514142,1939,1951,False,False,8.399437092962103e-05,True,True
+no trailing masks,bastard,False,1800,0.13170645787674054,1800,1811,True,False,0.00024187802343119194,True,True
+no trailing masks,bitch,True,1827,0.1864897663579882,1807,1884,False,False,0.00021237609488591584,True,True
+no trailing masks,whore,True,1816,0.011115202571012837,1800,1852,True,False,0.00015028671195100067,True,True
+no trailing masks,piss,False,1887,0.2368893528023039,1884,1890,False,False,7.395726854821514e-05,True,True
+no trailing masks,arse,False,1804,0.40864073881898755,1801,1833,True,False,8.667703035771985e-05,True,True
+no trailing masks,shit,True,1913,0.0544579662947887,1911,1927,False,False,0.00046398605587172115,True,True
+no trailing masks,fuck,True,1949,0.10295257293909285,1936,1955,False,False,0.0018877819241065956,True,True
+no trailing masks,cunt,False,1888,0.0,1888,1922,True,False,0.0,True,True
+no trailing masks,nword,False,1949,0.0013552361084602459,1944,1960,False,False,0.00038067468132599276,True,True
+multi-dash masks only,damn,True,1834,0.02072342240881818,1800,1853,True,False,0.0009156797512295773,True,True
+multi-dash masks only,hell,True,1823,0.0025162607068782705,1816,1838,False,False,3.278592988432958e-05,True,True
+multi-dash masks only,devil,False,1871,0.0022637817158720694,1855,1890,False,False,0.00036382340925431597,True,True
+multi-dash masks only,bloody,False,1802,0.0,1802,2018,True,True,0.0,True,True
+multi-dash masks only,bugger,False,1891,0.0,1891,1910,True,False,0.0,True,True
+multi-dash masks only,bastard,False,1800,0.01291610007912252,1800,1807,True,False,2.308874777219284e-05,True,True
+multi-dash masks only,bitch,True,1801,0.0295137098904798,1800,1815,True,False,0.0001922882240699121,True,True
+multi-dash masks only,whore,False,1809,0.0010121959317307611,1800,1828,True,False,1.3225629769529473e-05,True,True
+multi-dash masks only,piss,False,1871,0.0,1871,1873,True,False,0.0,True,True
+multi-dash masks only,arse,False,1806,0.0,1806,1830,True,False,0.0,True,True
+multi-dash masks only,shit,True,1949,0.02861231723674084,1948,1956,False,False,0.0005789260009098629,True,True
+multi-dash masks only,fuck,True,1949,0.06940458049625038,1947,1956,False,False,0.001281950004315129,True,True
+multi-dash masks only,cunt,False,1888,0.0,1888,1922,True,False,0.0,True,True
+multi-dash masks only,nword,False,1949,0.0013552361084602459,1944,1960,False,False,0.00038067468132599276,True,True
+mean of frame rates,damn,True,1843,0.43636132396252364,1805,1894,False,False,0.003174537871903158,True,True
+mean of frame rates,hell,True,1848,0.1688934518690472,1829,1884,False,False,9.547288490309356e-05,True,True
+mean of frame rates,devil,True,1839,0.026133480512218643,1819,1874,False,False,0.0011695300887707874,True,True
+mean of frame rates,bloody,False,1802,0.0,1802,2018,True,True,0.0,True,True
+mean of frame rates,bugger,False,1939,0.12905195329427913,1939,1954,False,False,8.399437092962103e-05,True,True
+mean of frame rates,bastard,False,1800,0.44175140101323207,1800,1807,True,False,0.00024187802343119194,True,True
+mean of frame rates,bitch,True,1827,0.24953153550793983,1811,1856,False,False,0.00036826042507561937,True,True
+mean of frame rates,whore,True,1834,0.014380413790264779,1800,1853,True,False,0.00015028671195100067,True,True
+mean of frame rates,piss,False,1889,0.15761225171956064,1889,1890,False,False,7.395726854821514e-05,True,True
+mean of frame rates,arse,False,1806,0.40032521123156267,1806,1830,True,False,8.667703035771985e-05,True,True
+mean of frame rates,shit,True,1912,0.07180136436128369,1912,1919,False,False,0.000811241461659838,True,True
+mean of frame rates,fuck,True,1949,0.12361871697526712,1937,1956,False,False,0.0022177481603793897,True,True
+mean of frame rates,cunt,False,1888,0.0,1888,1922,True,False,0.0,True,True
+mean of frame rates,nword,False,1949,0.0006924169274576859,1944,1960,False,False,0.00038067468132599276,True,True
+biggest frame dropped,damn,True,1833,0.27420471912432703,1800,1907,True,False,0.004806984237908067,True,True
+biggest frame dropped,hell,True,1888,0.049418793819617834,1828,1908,False,False,0.00011745683993654814,True,True
+biggest frame dropped,devil,True,1841,0.0274215325172427,1820,1872,False,False,0.0014024385042959843,True,True
+biggest frame dropped,bloody,False,1803,0.0,1803,2018,True,True,0.0,True,True
+biggest frame dropped,bugger,False,1945,0.22325235979992875,1939,1952,False,False,0.00017971724967689784,True,True
+biggest frame dropped,bastard,False,1809,0.3540965104728953,1809,1812,True,False,0.00034268515692139885,True,True
+biggest frame dropped,bitch,True,1827,0.17320068987858253,1810,1858,False,False,0.00010722743751682756,True,True
+biggest frame dropped,whore,False,1820,0.007578222189201059,1801,1839,False,False,8.425436472103866e-05,True,True
+biggest frame dropped,piss,False,1889,0.2965570791408956,1888,1890,False,False,0.00026068946499060877,True,True
+biggest frame dropped,arse,False,1804,0.3921842330921578,1804,1831,True,False,9.210636643322766e-05,True,True
+biggest frame dropped,shit,True,1949,0.03959073895061047,1949,1954,False,False,0.0008883224586530356,True,True
+biggest frame dropped,fuck,True,1949,0.09878596008710935,1933,1955,False,False,0.002310658501116997,True,True
+biggest frame dropped,cunt,False,1891,0.0,1891,1910,True,False,0.0,True,True
+biggest frame dropped,nword,False,1949,0.0006419072944223577,1944,1963,False,False,0.00021583496691911672,True,True
+asterisk masks included,damn,True,1834,0.3059278439661163,1800,1904,True,False,0.003174537871903158,True,True
+asterisk masks included,hell,True,1888,0.05358902434421602,1823,1909,False,False,0.00011086147861314038,True,True
+asterisk masks included,devil,True,1839,0.032239485338344046,1817,1874,False,False,0.0011695300887707874,True,True
+asterisk masks included,bloody,False,1802,0.0,1802,2018,True,True,0.0,True,True
+asterisk masks included,bugger,False,1945,0.1683206143514142,1939,1951,False,False,8.399437092962103e-05,True,True
+asterisk masks included,bastard,False,1800,0.13170645787674054,1800,1811,True,False,0.00024187802343119194,True,True
+asterisk masks included,bitch,True,1827,0.19111600583851046,1800,1884,True,False,0.0004782513989765221,True,True
+asterisk masks included,whore,True,1816,0.011115202571012837,1800,1852,True,False,0.00015028671195100067,True,True
+asterisk masks included,piss,False,1887,0.2368893528023039,1884,1890,False,False,7.395726854821514e-05,True,True
+asterisk masks included,arse,False,1804,0.40864073881898755,1801,1833,True,False,8.667703035771985e-05,True,True
+asterisk masks included,shit,True,1913,0.05445796629478869,1911,1927,False,False,0.000811241461659838,True,True
+asterisk masks included,fuck,True,1949,0.12103433620656057,1937,1955,False,False,0.0027686891962706494,True,True
+asterisk masks included,cunt,False,1888,0.0,1888,1922,True,False,0.0,True,True
+asterisk masks included,nword,False,1949,0.0013552361084602459,1944,1960,False,False,0.00038067468132599276,True,True

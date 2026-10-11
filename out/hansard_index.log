@@ -1,0 +1,39 @@
+dropped 8 hits judged false by hand
+baseline: share of ordinary speeches followed by a Chair challenge within 3 speeches
+era
+1919-1939    0.078
+1940-1959    0.088
+1960-1979    0.100
+1980-1999    0.178
+2000-2026    0.039 
+
+       word     group  uses  masked  euphemism  speeches  challenged  expected  lift  lift_lo  lift_hi
+  hypocrite    insult   538       0          0       493          41      0.51 79.93    57.36   108.43
+ blackguard    insult   114       0          0       110           8      0.10 78.84    34.04   155.35
+       liar    insult  1061       0          0       924          70      0.98 71.13    55.45    89.87
+       shit profanity    47       1          0        47           4      0.06 69.51    18.94   177.98
+       fuck    sexual    53      35          0        42           1      0.02 54.13     1.37   301.59
+       piss profanity    27       3          0        22           1      0.02 53.76     1.36   299.53
+        git    insult    32       0          0        27           1      0.02 40.78     1.03   227.19
+     coward    insult   846       0          0       692          22      0.66 33.45    20.96    50.64
+       arse profanity    40       0          0        38           1      0.03 31.57     0.80   175.87
+    traitor    insult  1257       0          0      1025          15      0.95 15.73     8.80    25.94
+     bloody profanity  2952       0          0      2638          35      2.73 12.82     8.93    17.83
+     bugger    sexual   352       0          0       243           4      0.31 12.76     3.48    32.66
+      idiot    insult   888       0          0       794           6      0.87  6.92     2.54    15.07
+    bastard profanity   535       0          0       412           3      0.43  6.91     1.43    20.21
+       damn blasphemy  3443       3          0      3201          22      3.64  6.05     3.79     9.16
+       hell blasphemy  4763       0          0      4455          19      4.77  3.98     2.40     6.22
+      swine    insult   964       0          0       718           1      0.60  1.67     0.04     9.28
+      devil blasphemy  2948       0          0      2631           1      2.46  0.41     0.01     2.27
+      bitch profanity   191       1          0       151           0      0.17  0.00     0.00    22.00
+guttersnipe    insult    16       0          0        15           0      0.02  0.00     0.00   223.38
+       cunt    sexual     2       1          0         2           0      0.00  0.00     0.00  4702.14
+      nword      slur   378       0          8       336           0      0.33  0.00     0.00    11.24
+       scum    insult   282       0          0       245           0      0.27  0.00     0.00    13.73
+
+challenge lift by era, pooled:
+era         1919-1939  1940-1959  1960-1979  1980-1999  2000-2026
+pool                                                             
+accusation       28.7       45.0       69.4       44.9       46.0
+swearing         13.7       16.2        6.8        5.2        4.1
