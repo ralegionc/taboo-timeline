@@ -236,6 +236,8 @@ since then 35 of its 51 appearances have been printed masked, mostly MPs quoting
 
 ## Data
 
+> The raw inputs are not in this repository. [DATA.md](DATA.md) records exactly which files were used, with sizes and fingerprints, and how to re-fetch them.
+
 Google Books Ngram Viewer, English corpus, 1800 to 2018 (via the public JSON endpoint). Commons
 debates from TheyWorkForYou (mySociety), which republishes the official report under the Open
 Parliament Licence.
